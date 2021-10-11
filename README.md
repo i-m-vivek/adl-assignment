@@ -1,2 +1,1 @@
-# adl-assignment
-Assignment Solutions for the course CS-672 (Advanced Deep Learning, Fall 2021) at IIT Mandi
+# Assignment Solutions | CS-672 (Advanced Deep Learning, Fall 2021), IIT Mandi
